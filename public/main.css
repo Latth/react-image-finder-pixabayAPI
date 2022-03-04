@@ -1,0 +1,11 @@
+.perImage {
+    width: 30%;
+    height: auto;
+    margin: 10px;
+}
+
+.imageList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
